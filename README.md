@@ -3,7 +3,7 @@
 ### 🚀 Artificial Intelligence & Data Science Undergraduate 
 **Robert Gordon University, UK** 🎓
 
-### 💻 Trainee Software Engineer
+### 💻 Associate Software Engineer - AI and ML
 **CodeGen International (Pvt) Ltd**
 
 ---

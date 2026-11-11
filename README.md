@@ -70,14 +70,4 @@
 
 ---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephan-Dabare&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephan-Dabare&layout=compact&theme=radical)
-
----
-
-![Stephan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stephan-Dabare&theme=radical)
-
----
-
 [LinkedIn](https://www.linkedin.com/in/stephan-dabare-935769187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [Email](mailto:stephandabare@gmail.com)
